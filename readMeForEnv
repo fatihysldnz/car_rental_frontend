@@ -1,0 +1,5 @@
+
+Normalde bu env.development dosyasi locallerde calismak icin kullanilir
+cunku npm start dendiginde react bu development dosyasinin apisini okur.
+suan denemek icin herokuyu yazdim.
+https://localhost:8080/car-rental/api/
